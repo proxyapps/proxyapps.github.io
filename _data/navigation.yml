@@ -1,6 +1,7 @@
 # main links
 main:
   - title: "Proxy Applications"
+    url: /all-apps/
   - title: "ECP Proxy Apps Suite"
   - title: "Standards"
     url: /standards/

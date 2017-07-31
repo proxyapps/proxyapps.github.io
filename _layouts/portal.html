@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+  <link rel="stylesheet" href="/proxy-apps/css/main.css" media="screen">
+</head>
+</head>
+
+<body ng-controller="gitHubDataController">
+  
+{% for app in site.apps %}
+    <div ng-init="init('{{ app.file }}')">
+    </div>
+{% endfor %}
+
+{% include browser-upgrade.html %}
+{% include masthead.html %}
+
+<div class="container">
+{{ content }}
+</div>
+
+<div class="page__footer">
+  <footer>
+    {% include footer/custom.html %}
+    {% include footer.html %}
+  </footer>
+</div>
+
+{% include scripts.html %}
+
+</body>
+</html>

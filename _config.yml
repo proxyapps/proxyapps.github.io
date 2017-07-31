@@ -254,3 +254,6 @@ defaults:
     values:
       layout: splash
       author_profile: false
+
+collections:
+  - apps
