@@ -8,7 +8,8 @@ permalink: /team/
 * David Richards, LLNL (Lead PI)
 * Jeanine Cook, SNL
 * Hal Finkel, ANL
-* Christoph Junghans, LANL
+* [Christoph Junghans](https://github.com/junghans), LANL
+* [Robert Pavel](https://github.com/rspavel), LANL
 * Bronson Messer, ORNL
 * Peter McCorquodale, LBL
 * Abhinav Bhatele, LLNL
