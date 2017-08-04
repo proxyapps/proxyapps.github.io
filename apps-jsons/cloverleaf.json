@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "CloverLeaf",
+    "spackname" : "cloverleaf",
+    "weburl" : "http://uk-mac.github.io/CloverLeaf/",
+    "giturl" : "https://github.com/UK-MAC/CloverLeaf",
+    "tarballurl" : "",
+    "version"  : "1.1",
+    "language" : "Fortran",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "A miniapp that solves the compressible Euler equations on a Cartesian grid.",
+    "longdesc" : ""
+  }
+]
