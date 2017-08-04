@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "TeaLeaf",
+    "spackname" : "tealeaf",
+    "weburl" : "http://uk-mac.github.io/TeaLeaf/",
+    "giturl" : "https://github.com/UK-MAC/TeaLeaf",
+    "tarballurl" : "",
+    "version"  : "1.0",
+    "language" : "Fortran",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "A miniapp that solves the linear heat conduction equation on a spatially decomposed regularly grid using a 5 point stencil with implicit solvers.",
+    "longdesc" : ""
+  }
+]
