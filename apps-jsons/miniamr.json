@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "miniAMR",
+    "spackname" : "miniamr",
+    "weburl" : "https://mantevo.org/packages/",
+    "giturl" : "https://github.com/Mantevo/miniAMR",
+    "tarballurl" : "http://mantevo.org/downloads/releaseTarballs/miniapps/MiniAMR/miniAMR_1.0_all.tgz",
+    "version"  : "1.0",
+    "language" : "c",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "3D stencil calculation with Adaptive Mesh Refinement",
+    "longdesc" : ""
+  }
+]
