@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "miniMD",
+    "spackname" : "minimd",
+    "weburl" : "https://mantevo.org/packages/",
+    "giturl" : "https://github.com/Mantevo/miniMD",
+    "tarballurl" : "http://mantevo.org/downloads/releaseTarballs/miniapps/MiniMD/miniMD_ref-2.0.tgz",
+    "version"  : "2.0",
+    "language" : "c++",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "A simple proxy for the force computations in typical molecular dynamics applications.",
+    "longdesc" : "miniMD is a parallel molecular dynamics (MD) simulation package written in C++ and intended for use on parallel supercomputers and new architechtures for testing purposes. The software package is meant to be simple, lightweight, and easily adapted to new hardware. It is designed following many of the same algorithm concepts as our LAMMPS (http://lammps.sandia.gov) parallel MD code, but is much simpler."
+  }
+]
