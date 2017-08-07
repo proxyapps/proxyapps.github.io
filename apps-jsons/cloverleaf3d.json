@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "CloverLeaf3D",
+    "spackname" : "cloverleaf3d",
+    "weburl" : "http://uk-mac.github.io/CloverLeaf3D/",
+    "giturl" : "https://github.com/UK-MAC/CloverLeaf3D",
+    "tarballurl" : "",
+    "version"  : "1.0",
+    "language" : "Fortran",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "3D version of a miniapp that solves compressible Euler equations on a Cartesian grid",
+    "longdesc" : ""
+  }
+]
