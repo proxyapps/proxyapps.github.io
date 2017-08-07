@@ -1,7 +1,7 @@
 [
   { 
     "name" : “LCALS”,
-    "spackname" : “lacks”,
+    "spackname" : “lcals”,
     "weburl" : "https://codesign.llnl.gov/LCALS.php",
     "giturl" : "",
     "tarballurl" : "https://codesign.llnl.gov/LCALS-downloads/lcals-v1.0.2.tgz",
