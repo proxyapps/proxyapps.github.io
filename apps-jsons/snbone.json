@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : “SNbone”,
+    "spackname" : “snbone”,
+    "weburl" : "",
+    "giturl" : "https://github.com/ANL-CESAR/SNbone",
+    "tarballurl" : "https://github.com/ANL-CESAR/SNbone/archive/master.tar.gz",
+    "version"  : “1.0”,
+    "language" : “C, Fortran“,
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "This application targets the primary computational solve burden of a SN, continuous finite element based transport equation solver",
+    "longdesc" : "This program emulates the inversion of A in A*x=S on a single node arch. This operation was identified as the bulk of the flop work and the largest memory issue for deterministic neutronics"
+  }
+]

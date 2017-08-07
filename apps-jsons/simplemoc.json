@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : “SimpleMOC”,
+    "spackname" : “simplemoc”,
+    "weburl" : "",
+    "giturl" : "https://github.com/ANL-CESAR/SimpleMOC",
+    "tarballurl" : "https://github.com/ANL-CESAR/SimpleMOC/archive/master.tar.gz",
+    "version"  : “3”,
+    "language" : "C",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "The purpose of this mini-app is to demonstrate the performance characterterics and viability of the Method of Characteristics (MOC) for 3D neutron transport calculations in the context of full scale light water reactor simulation.",
+    "longdesc" : ""
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : “RSBench”,
+    "spackname" : “rsbench”,
+    "weburl" : "",
+    "giturl" : "https://github.com/ANL-CESAR/RSBench",
+    "tarballurl" : "https://github.com/ANL-CESAR/RSBench/archive/v2.tar.gz",
+    "version"  : “2”,
+    "language" : “C“,
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "A mini-app to represent the multipole resonance representation lookup cross section algorithm.",
+    "longdesc" : ""
+  }
+]

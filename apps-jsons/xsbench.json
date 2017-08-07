@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : “XSBench”,
+    "spackname" : “xsbench”,
+    "weburl" : "",
+    "giturl" : "https://github.com/ANL-CESAR/XSBench",
+    "tarballurl" : "https://github.com/ANL-CESAR/XSBench/archive/v13.tar.gz",
+    "version"  : “13”,
+    "language" : "C",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "XSBench is a mini-app representing a key computational kernel of the Monte Carlo neutronics application OpenMC.",
+    "longdesc" : "The XSBench proxy app models the most computationally intensive part of a typical MC transport algorithm - the calculation of macroscopic neutron cross sections - a kernel which accounts for around 85% of the total runtime of OpenMC. The essential computational conditions and tasks of fully featured MC neutron transport codes are retained in the mini-app, without the addi- tional complexity of the full application. This provides a much simpler and more transparent platform for determining performance benefits resulting from a given hardware feature or software optimization. "
+  }
+]
