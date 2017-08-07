@@ -1,11 +1,11 @@
 [
   { 
-    "name" : “SimpleMOC”,
-    "spackname" : “simplemoc”,
+    "name" : "SimpleMOC",
+    "spackname" : "simplemoc",
     "weburl" : "",
     "giturl" : "https://github.com/ANL-CESAR/SimpleMOC",
     "tarballurl" : "https://github.com/ANL-CESAR/SimpleMOC/archive/master.tar.gz",
-    "version"  : “3”,
+    "version"  : "3",
     "language" : "C",
     "intent" : "",
     "science" : "",

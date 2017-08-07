@@ -1,12 +1,12 @@
 [
   { 
-    "name" : “SNbone”,
-    "spackname" : “snbone”,
+    "name" : "SNbone",
+    "spackname" : "snbone",
     "weburl" : "",
     "giturl" : "https://github.com/ANL-CESAR/SNbone",
     "tarballurl" : "https://github.com/ANL-CESAR/SNbone/archive/master.tar.gz",
-    "version"  : “1.0”,
-    "language" : “C, Fortran“,
+    "version"  : "1.0",
+    "language" : "C, Fortran",
     "intent" : "",
     "science" : "",
     "shortdesc" : "This application targets the primary computational solve burden of a SN, continuous finite element based transport equation solver",

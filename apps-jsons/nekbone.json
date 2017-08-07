@@ -1,12 +1,12 @@
 [
   { 
-    "name" : “NEKbone”,
-    "spackname" : “nekbone”,
+    "name" : "NEKbone",
+    "spackname" : "nekbone",
     "weburl" : "",
     "giturl" : "https://github.com/ANL-CESAR/nekbone",
     "tarballurl" : "https://github.com/ANL-CESAR/nekbone/archive/master.tar.gz",
-    "version"  : “6”,
-    "language" : “Fortran“,
+    "version"  : "6",
+    "language" : "Fortran",
     "intent" : "",
     "science" : "",
     "shortdesc" : "Nekbone captures the basic structure and user interface of the ex- tensive Nek5000 software. Nek5000 is a high order, incompressible Navier-Stokes solver based on the spectral element method.",

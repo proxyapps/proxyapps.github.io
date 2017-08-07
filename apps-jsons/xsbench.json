@@ -1,11 +1,11 @@
 [
   { 
-    "name" : “XSBench”,
-    "spackname" : “xsbench”,
+    "name" : "XSBench",
+    "spackname" : "xsbench",
     "weburl" : "",
     "giturl" : "https://github.com/ANL-CESAR/XSBench",
     "tarballurl" : "https://github.com/ANL-CESAR/XSBench/archive/v13.tar.gz",
-    "version"  : “13”,
+    "version"  : "13",
     "language" : "C",
     "intent" : "",
     "science" : "",

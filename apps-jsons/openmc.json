@@ -1,12 +1,12 @@
 [
   { 
-    "name" : “OpenMC”,
-    "spackname" : “openmc”,
+    "name" : "OpenMC",
+    "spackname" : "openmc",
     "weburl" : "",
     "giturl" : "https://github.com/ANL-CESAR/openmc",
     "tarballurl" : "https://github.com/ANL-CESAR/openmc/archive/v0.6.0.tar.gz",
-    "version"  : “6”,
-    "language" : “Fortran“,
+    "version"  : "6",
+    "language" : "Fortran",
     "intent" : "",
     "science" : "",
     "shortdesc" : "The OpenMC project aims to provide a fully-featured Monte Carlo particle transport code based on modern methods. It is a constructive solid geometry, continuous-energy transport code that uses ACE format cross sections.",

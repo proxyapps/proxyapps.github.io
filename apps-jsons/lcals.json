@@ -1,12 +1,12 @@
 [
   { 
-    "name" : “LCALS”,
-    "spackname" : “lcals”,
+    "name" : "LCALS",
+    "spackname" : "lcals",
     "weburl" : "https://codesign.llnl.gov/LCALS.php",
     "giturl" : "",
     "tarballurl" : "https://codesign.llnl.gov/LCALS-downloads/lcals-v1.0.2.tgz",
-    "version"  : “1.0.2”,
-    "language" : “C++“,
+    "version"  : "1.0.2",
+    "language" : "C++",
     "intent" : "",
     "science" : "",
     "shortdesc" : "LCALS (“Livermore Compiler Analysis Loop Suite”) is a collection of loop kernels based, in part, on historical “Livermore Loops” benchmarks (See the 1986 technical report: “The Livermore Fortran Kernels: A Computer Test of the Numerical Performance Range”, by Frank H. McMahon, UCRL-53745.).",
