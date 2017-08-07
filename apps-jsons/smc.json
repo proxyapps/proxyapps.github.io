@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "SMC",
+    "spackname" : "smc",
+    "weburl" : "https://ccse.lbl.gov/ExaCT/index.html",
+    "giturl" : "",
+    "tarballurl" : "https://ccse.lbl.gov/ExaCT/SMC.tar.gz",
+    "version"  : "",
+    "language" : "Fortran",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "A minimalist high-order finite difference algorithm for combustion problems.",
+    "longdesc" : "A minimalist high-order finite difference algorithm for combustion problems. It includes core discretizations for advection, diffusive transport and chemical kinetics. The models for computing diffusive transport coefficients have been replaced by a simplified approximation but the full structure of the discretization of the diffusive terms have been preserved."
+  }
+]
