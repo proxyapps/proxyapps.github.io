@@ -6,7 +6,7 @@
     "giturl" : "https://github.com/Mantevo/miniAero",
     "tarballurl" : "https://github.com/Mantevo/miniAero/archive/v1.0.0.tar.gz",
     "version"  : "1.0.0",
-    "language" : "c",
+    "language" : "C",
     "intent" : "",
     "science" : "",
     "shortdesc" : "An explicit unstructured finite volume code that solves the compressible Navier-Stokes equations",
