@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "CoMD",
+    "spackname" : "comd",
+    "weburl" : "http://www.exmatex.org/comd.html",
+    "giturl" : "https://github.com/exmatex/CoMD",
+    "tarballurl" : "https://github.com/exmatex/CoMD/tarball/master",
+    "version"  : "1.1",
+    "language" : "C",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "Simple Proxy App for Classical molecular dynamics proxy application implemented in multiple programing models.",
+    "longdesc" : "CoMD is a reference implementation of classical molecular dynamics algorithms and workloads as used in materials science. It is created and maintained by The Exascale Co-Design Center for Materials in Extreme Environments (ExMatEx). The code is intended to serve as a vehicle for co-design by allowing others to extend and/or reimplement it as needed to test performance of new architectures, programming models, etc. New versions of CoMD will be released to incorporate the lessons learned from the co-design process."
+  }
+]
