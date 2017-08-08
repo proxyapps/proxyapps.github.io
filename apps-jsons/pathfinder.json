@@ -6,7 +6,7 @@
     "giturl" : "https://github.com/Mantevo/PathFinder",
     "tarballurl" : "http://mantevo.org/downloads/releaseTarballs/miniapps/PathFinder/PathFinder_1.0.0.tgz",
     "version"  : "1.0.0",
-    "language" : "c",
+    "language" : "C",
     "intent" : "",
     "science" : "",
     "shortdesc" : "A signature search miniapp.",

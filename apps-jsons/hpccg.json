@@ -6,7 +6,7 @@
     "giturl" : "https://github.com/Mantevo/HPCCG",
     "tarballurl" : "http://mantevo.org/downloads/releaseTarballs/miniapps/HPCCG/HPCCG-1.0.tar.gz",
     "version"  : "1.0",
-    "language" : "c++",
+    "language" : "C++",
     "intent" : "",
     "science" : "",
     "shortdesc" : "A simple conjugate gradient benchmark code for a 3D chimney domain.",
