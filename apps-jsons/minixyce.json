@@ -6,7 +6,7 @@
     "giturl" : "https://github.com/Mantevo/miniXyce",
     "tarballurl" : "http://mantevo.org/downloads/releaseTarballs/miniapps/MiniXyce/miniXyce_1.0.tar.gz",
     "version"  : "1.0",
-    "language" : "",
+    "language" : "C++",
     "intent" : "",
     "science" : "",
     "shortdesc" : "A portable proxy of some of the key capabilities in the electrical modeling Xyce.",
