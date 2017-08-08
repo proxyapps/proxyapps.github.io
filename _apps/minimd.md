@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/minimd.md
+file : /proxy-apps/apps-jsons/minimd.json
 ---
