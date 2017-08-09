@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "VPFFT++",
+    "spackname" : "vpfft",
+    "weburl" : "http://www.exmatex.org/vpfft.html",
+    "giturl" : "https://github.com/exmatex/VPFFT",
+    "tarballurl" : "",
+    "version"  : "",
+    "language" : "C++",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "VPFFT is an implementation of a mesoscale micromechanical materials model. The proxy application, VPFFT++, is a reference implementation of the algorithms in VPFFT.",
+    "longdesc" : "VPFFT is an implementation of a mesoscale micromechanical materials model. By solving the viscoplasticity model, VPFFT simulates the evolution of a material under deformation. The solution time to the viscoplasticity model, described by a set of partial differential equations, is significantly reduced by the application of Fast Fourier Transform in the VPFFT algorithm. The proxy application, VPFFT++, is a reference implementation of the algorithms in VPFFT. While capturing most of its computational complexity, VPFFT++ forgoes most of the machine specific optimizations and additional physics feature sets from the original VPFFT code. An algorithmic specification accompanying VPFFT++, detailing the implemented algorithm, is also available as a documentation."
+  }
+]
