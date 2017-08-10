@@ -25,7 +25,7 @@ Proxy Applications
 
         <p class="text-justify">{{ repo.shortdesc }} 
 
-            <a ng-if="repo.weburl" href="{{ repo.weburl }}/">
+            <a ng-if="repo.weburl" href="{{ repo.weburl }}">
                 <span class="fa fa-globe"></span>
             </a>
 
