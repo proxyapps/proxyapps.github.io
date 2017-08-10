@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "ASPA",
+    "spackname" : "aspa",
+    "weburl" : "http://www.exmatex.org/aspa.html",
+    "giturl" : "https://github.com/exmatex/ASPA",
+    "tarballurl" : "https://github.com/exmatex/ASPA/archive/master.tar.gz",
+    "version"  : "1.0",
+    "language" : "C++",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "ASPA Proxy Application,Multi-scale, adaptive sampling, materials science proxy.",
+    "longdesc" : "A fundamental premise in ExMatEx is that scale-bridging performed in heterogeneous MPMD materials science simulations will place important demands upon the exascale ecosystem that need to be identified and quantified. As depicted in the figure shown below, we envision coarse “engineering” scale models coupled with concurrently executing “on demand” fine-scale models. The expense of performing fine-scale model evaluations, a large fraction of which will likely be similar to those previously performed, is mitigated by the use of adaptive sampling to “learn” the fine-scale response. In Y1 of our project, we focused on the single-scale components needed for a proxy implementation of this strategy, including LULESH, VPFFT and ASPA. In Y2, we have developed more of the “glue” needed to assemble a scale-bridging mini app that will eventually operate in the manner shown in the fugure below applied to a collection of demonstration problems. This will enable the quantification of problem-dependent “speeds and feeds” that are essential for the specification of job scheduling and database requirements."
+  }
+]
