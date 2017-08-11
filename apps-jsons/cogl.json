@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "CoGL",
+    "spackname" : "cogl",
+    "weburl" : "http://www.exmatex.org/cogl.html",
+    "giturl" : "https://github.com/exmatex/CoGL",
+    "tarballurl" : "https://github.com/exmatex/CoGL/archive/master.tar.gz",
+    "version"  : "1.0",
+    "language" : "C++",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "CoGL Proxy Application,Analyze pattern formation in ferroelastic materials and test in situ visualization.",
+    "longdesc" : "CoGL is a meso-scale simulation proxy app used to analyze pattern formation in ferroelastic materials using the Ginzburg–Landau approach. It has been publicly released on the ExMatEx project Github repository. It is implemented using a data-parallel approach, making use of the PISTON framework, developed at Los Alamos as an extension of NVIDIA’s Thrust library. The exact same simulation code can be compiled to different backends (such as CUDA or OpenMP) to take advantage of various on-node accelerators (such as GPUs or multi-core CPUs). Extensions of this proxy app, not yet publicly released, include additional in-situ visualization operators (such as isosurface) and a distributed implementation that allows it to be run across multiple GPUs or CPUs."
+  }
+]
