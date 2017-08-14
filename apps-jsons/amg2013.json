@@ -1,0 +1,16 @@
+[
+  { 
+    "name" : "AMG2013",
+    "spackname" : "amg2013",
+    "weburl" : "https://codesign.llnl.gov/amg2013.php",
+    "giturl" : "",
+    "tarballurl" : "https://codesign.llnl.gov/amg2013/amg2013.tgz",
+    "version"  : "1.0",
+    "language" : "C",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "AMG2013 is a parallel algebraic multigrid solver for linear systems arising from problems on unstructured grids.",
+    "longdesc" : "AMG2013 is a parallel algebraic multigrid solver for linear systems arising from problems on unstructured grids.  It has been derived directly from the BoomerAMG solver in the hypre library, a large linear solver library that is being developed in the Center for Applied Scientific Computing (CASC) at LLNL. The driver provided in the benchmark can build various test problems. The default problem is a Laplace type problem on an unstructured domain with various jumps and an anisotropy in one part."
+  }
+]
+
