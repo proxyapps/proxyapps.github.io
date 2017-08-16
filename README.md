@@ -1,8 +1,19 @@
-To add a new proxy application:
+Exascale Proxy Applications Website
+===================================
 
-- Say the proxyapp name is "XYZ"
-- Using the apps.format.json create a new file apps-jsons/XYZ.json and fill in 
-  the details.
-- Using the apps.format.md create a new file _apps/XYZ.md and fill in the file 
-  name XYZ.json in the file variable (Do not delete the "/proxy-apps/apps-jsons/"
-  prefix).
+This is the official website for the ECP Proxy Applications project.
+
+### Adding a new proxy application
+
+- Fork the proxy-apps github repository.
+- Lets say the new proxy application is called "proxyapp".
+- Using apps.template.json, create a new file apps-jsons/proxyapp.json and fill
+  in the details.
+- Using the apps.template.md, create a new file _apps/proxyapp.md and fill in
+  the file name proxyapp.json in the file variable (please do not delete the
+  "/proxy-apps/apps-jsons/" prefix).
+- Submit a pull request to the proxy-apps github repository on https://github.com/exascaleproject.
+
+### Contact
+
+<ecp-proxy-apps@llnl.gov>
