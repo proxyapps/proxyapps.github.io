@@ -9,7 +9,7 @@
     "language" : "C++",
     "intent" : "",
     "science" : "",
-    "shortdesc" : "The "Monte Carlo Benchmark" (MCB) is intended for use in exploring the computational performance of Monte Carlo algorithms on parallel architectures. ",
-    "longdesc" : "The "Monte Carlo Benchmark" (MCB) is intended for use in exploring the computational performance of Monte Carlo algorithms on parallel architectures. It models the solution of a simple heuristic transport equation using a Monte Carlo technique. The MCB employs typical features of Monte Carlo algorithms such as particle creation, particle tracking, tallying particle information, and particle destruction. Particles are also traded among processors using MPI calls."
+    "shortdesc" : "The Monte Carlo Benchmark (MCB) is intended for use in exploring the computational performance of Monte Carlo algorithms on parallel architectures. ",
+    "longdesc" : "The Monte Carlo Benchmark (MCB) is intended for use in exploring the computational performance of Monte Carlo algorithms on parallel architectures. It models the solution of a simple heuristic transport equation using a Monte Carlo technique. The MCB employs typical features of Monte Carlo algorithms such as particle creation, particle tracking, tallying particle information, and particle destruction. Particles are also traded among processors using MPI calls."
   }
 ]
