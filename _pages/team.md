@@ -12,5 +12,5 @@ permalink: /team/
 * [Robert Pavel](https://github.com/rspavel), LANL
 * Bronson Messer, ORNL
 * Peter McCorquodale, LBL
-* Abhinav Bhatele, LLNL
-* Nikhil Jain, LLNL
+* [Abhinav Bhatele](www.bhatele.org), LLNL
+* [Nikhil Jain](https://nikhil-jain.github.io), LLNL
