@@ -3,16 +3,16 @@ Exascale Proxy Applications Website
 
 This is the official website for the ECP Proxy Applications project.
 
+### Deploy this website locally.
+
+- Clone the git repository: git clone https://github.com/exascaleproject/proxy-apps.git
+- Install bundler: gem install bundler
+- Install gem package: 1) Change directory to the "proxy-apps" folder. 2) Run "bundle install"
+- Deploy from the proxy-apps folder: Run "bundle exec jekyll serve"
+
 ### Adding a new proxy application
 
-- Fork the proxy-apps github repository.
-- Lets say the new proxy application is called "proxyapp".
-- Using apps.template.json, create a new file apps-jsons/proxyapp.json and fill
-  in the details.
-- Using the apps.template.md, create a new file _apps/proxyapp.md and fill in
-  the file name proxyapp.json in the file variable (please do not delete the
-  "/proxy-apps/apps-jsons/" prefix).
-- Submit a pull request to the proxy-apps github repository on https://github.com/exascaleproject.
+Instructions in HowToAddProxyApp.md
 
 ### Contact
 
