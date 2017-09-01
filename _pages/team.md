@@ -1,7 +1,8 @@
 ---
+layout: splash
 permalink: /team/
+title: Team
 ---
-
 
 # Project Team
 

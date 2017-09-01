@@ -1,12 +1,10 @@
 ---
 layout: splash
 permalink: /
-header:
-  overlay_color: "#5e616c"
-  overlay_image: assets/images/teaser.jpg
-  #cta_label: "<i class='fa fa-download'></i> Download"
-  #cta_url: ""
+title: Home
 ---
+
+# Exacale Computing Project Proxy Applications [<img src="assets/images/ecp-logo.png" alt="Drawing" style="width: 150px;"/>](https://exascaleproject.org/)
 
 In High Performance Computing (HPC), _proxy applications_ (“apps”) are small,
 simplified codes that allow application developers to share important features
@@ -34,7 +32,8 @@ quality of proxies created by ECP and maximize the benefit received from their
 use. To accomplish this goal, an ECP proxy app suite composed of proxies
 developed by other ECP projects that represent the most important features
 (especially performance) of exascale applications will be created. This suite
-will be released and distributed through this website.  To ensure high quality
-of ECP proxies, we will set standards for documentation, build and test systems,
-performance models and evaluations, etc.  We will also provide templates and
-best practices for proxy developers to help them meet these standards.
+will be released and distributed through this [webpage](suite-apps).  To ensure
+high quality of ECP proxies, we will set [standards](standards) for
+documentation, build and test systems, performance models and evaluations, etc.
+We will also provide templates and best practices for proxy developers to help
+them meet these standards.

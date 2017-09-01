@@ -1,11 +1,12 @@
 ---
 permalink: /standards/
+title: Standards
 ---
 
 
-{% include toc %}
-
 # Proxy App Quality Standards and Best Practices
+
+{% include toc %}
 
 This document describes the quality standards and best practices for ECP proxy
 apps.  Proxies that comply with these standards will be more usable in

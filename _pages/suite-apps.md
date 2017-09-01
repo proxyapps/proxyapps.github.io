@@ -1,5 +1,6 @@
 ---
 permalink: /suite-apps/
+title: "Apps Suite"
 ---
 
 {% raw %}

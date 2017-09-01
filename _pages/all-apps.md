@@ -1,6 +1,7 @@
 ---
 layout: portal
 permalink: /all-apps/
+title: "All Apps"
 ---
 
 {% raw %}
