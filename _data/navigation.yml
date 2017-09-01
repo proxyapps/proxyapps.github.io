@@ -3,8 +3,9 @@ main:
   - title: "Proxy Applications"
     url: /all-apps/
   - title: "ECP Proxy Apps Suite"
+    url: /suite-apps/
   - title: "Standards"
     url: /standards/
-  - title: "Reports"
+#  - title: "Reports"
   - title: "Team"
     url: /team/
