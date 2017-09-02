@@ -78,8 +78,8 @@
 }
 
 .app-container {
-    padding-left: 100px;
-    padding-top: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
 }
 
 .app-container table, th, td {
