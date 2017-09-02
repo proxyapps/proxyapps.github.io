@@ -76,3 +76,17 @@
   color: #005dab;
   font-weight: bold;
 }
+
+.app-container {
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.app-container table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.app-container th, td {
+    padding: 15px;
+}

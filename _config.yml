@@ -265,7 +265,7 @@ defaults:
       path: ""
       type: apps
     values:
-      layout: splash
+      layout: app-page
 
 
 

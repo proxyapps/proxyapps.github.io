@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+  <link rel="stylesheet" href="/proxy-apps/css/main.css" media="screen">
+</head>
+</head>
+
+<body ng-controller="gitHubDataController">
+
+<div ng-init="init('{{ page.file }}', '{{ page.url | prepend:site.baseurl }}')"> </div>
+
+{% include browser-upgrade.html %}
+{% include masthead.html %}
+
+{% raw %}
+
+<div class="container">
+<section ng-show="repoData">
+  <div ng-repeat="repo in repoData">
+
+   <br><br>
+   <center><b><big>{{ repo.name }}</big> </b></center>
+
+   <div class="app-container">
+
+   <table style="width:75%">
+
+   <tr>
+    <th> Brief
+    <th> {{ repo.shortdesc }}
+   </tr>
+
+   <tr>
+    <th> Programming languages/paradigms
+    <th> {{ repo.language }}
+   </tr>
+
+    <tr ng-if="repo.version">
+      <th> Latest version
+      <th> {{ repo.version }}
+    </tr>
+
+    <tr ng-if="repo.weburl">
+      <th> Web URL
+      <th> <a href="{{ repo.weburl }}">{{ repo.weburl }}</a>
+    </tr>
+
+    <tr ng-if="repo.giturl">
+      <th> Git URL
+      <th> <a href="{{ repo.giturl }}">{{ repo.giturl }}</a>
+    </tr>
+
+    <tr ng-if="repo.tarballurl">
+      <th> Tarball dowload URL
+      <th> <a href="{{ repo.tarballurl }}">{{ repo.tarballurl }}</a>
+    </tr>
+
+    <tr ng-if="repo.spackname">
+      <th> Spack package
+      <th> {{ repo.spackname }}
+    </tr>
+
+    <tr ng-if="repo.longdesc">
+    <th> Description
+    <th> {{ repo.longdesc }}
+    </tr>
+
+    </table>
+    </div>
+
+    </div>
+
+</section>
+
+</div>
+
+{% endraw %}
+
+<div class="container">
+{{ content }}
+</div>
+
+
+<div class="page__footer">
+  <footer>
+    {% include footer/custom.html %}
+    {% include footer.html %}
+  </footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+<script src="/proxy-apps/js/applist-load.js"></script>
+
+{% include scripts.html %}
+
+</body>
+</html>
