@@ -4,7 +4,7 @@ permalink: /
 title: Home
 ---
 
-# Exacale Computing Project Proxy Applications [<img src="assets/images/ecp-logo.png" alt="Drawing" style="width: 150px;"/>](https://exascaleproject.org/)
+# Exascale Computing Project Proxy Applications [<img src="assets/images/ecp-logo.png" alt="Drawing" style="width: 150px;"/>](https://exascaleproject.org/)
 
 In High Performance Computing (HPC), _proxy applications_ (“apps”) are small,
 simplified codes that allow application developers to share important features
