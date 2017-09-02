@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /suite-apps/
 title: "Apps Suite"
 ---
