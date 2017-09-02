@@ -256,4 +256,17 @@ defaults:
       author_profile: false
 
 collections:
-  - apps
+  apps:
+      output: true
+
+defaults:
+  # _apps
+  - scope:
+      path: ""
+      type: apps
+    values:
+      layout: splash
+
+
+
+

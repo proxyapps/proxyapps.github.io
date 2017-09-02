@@ -11,7 +11,7 @@
 <body ng-controller="gitHubDataController">
   
 {% for app in site.apps %}
-    <div ng-init="init('{{ app.file }}')">
+    <div ng-init="init('{{ app.file }}', '{{ app.url | prepend:site.baseurl }}')">
     </div>
 {% endfor %}
 

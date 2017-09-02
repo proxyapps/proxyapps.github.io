@@ -20,7 +20,7 @@ Proxy Applications
 <section ng-show="repoData" id="repositories" class="flex-container">
     <div ng-repeat="repo in repoData | filter:searchText  | orderBy:predicate:reverse" class="flex-item {{repo.name}} {{repo.language}}">
         <h4 class="text-center">
-        <a href="{{ repo.weburl }}"> {{ repo.name }} </a>
+        <a href="{{ repo.lurl }}"> {{ repo.name }} </a>
         <small>{{ repo.language }}</small>
         </h4>
 
