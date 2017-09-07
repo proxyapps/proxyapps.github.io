@@ -12,7 +12,7 @@ This is the official website for the ECP Proxy Applications project.
 
 ### Adding a new proxy application
 
-Instructions in HowToAddProxyApp.md
+Please see [https://exascaleproject.github.io/proxy-apps/docs](https://exascaleproject.github.io/proxy-apps/docs)
 
 ### Contact
 

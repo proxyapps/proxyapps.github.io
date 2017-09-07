@@ -6,6 +6,7 @@ main:
     url: /ecp-apps/
   - title: "Standards"
     url: /standards/
-#  - title: "Reports"
+  - title: "Documentation"
+    url: /docs/
   - title: "Team"
     url: /team/
