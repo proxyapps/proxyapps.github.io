@@ -6,12 +6,12 @@ title: Team
 
 # Project Team
 
-* [Hal Finkel](https://www.alcf.anl.gov/staff-directory/hal-finkel), ANL
-* [Christoph Junghans](https://github.com/junghans), LANL
-* [Robert Pavel](https://github.com/rspavel), LANL
+* [Hal Finkel](http://www.alcf.anl.gov/staff-directory/hal-finkel), ANL
+* [Christoph Junghans](http://github.com/junghans), LANL
+* [Robert Pavel](http://github.com/rspavel), LANL
 * [Peter McCorquodale](http://crd.lbl.gov/departments/applied-mathematics/ANAG/about/staff-and-postdocs/peter-mccorquodale/), LBL
-* [Abhinav Bhatele](www.bhatele.org), LLNL
-* [Nikhil Jain](https://nikhil-jain.github.io), LLNL
+* [Abhinav Bhatele](http://www.bhatele.org), LLNL
+* [Nikhil Jain](http://nikhil-jain.github.io), LLNL
 * David Richards, LLNL (Lead PI)
 * Bronson Messer, ORNL
 * Tiffany Mintz, ORNL
@@ -21,5 +21,5 @@ title: Team
 
 # Contact
 
-Please e-mail [ecp-proxy-apps@llnl.gov][mailto:ecp-proxy-apps@llnl.gov] with
+Please e-mail [ecp-proxy-apps@llnl.gov](mailto:ecp-proxy-apps@llnl.gov) with
 any suggestions or questions.
