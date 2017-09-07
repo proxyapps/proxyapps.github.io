@@ -18,3 +18,8 @@ title: Team
 * Shirley Moore, ORNL
 * Jeanine Cook, SNL
 * Courtenay Vaughan, SNL
+
+# Contact
+
+Please e-mail [ecp-proxy-apps@llnl.gov][mailto:ecp-proxy-apps@llnl.gov] with
+any suggestions or questions.
