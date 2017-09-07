@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /standards/
-title: Standards
+permalink: /docs/
+title: Documentation
 ---
 
 
