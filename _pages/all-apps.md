@@ -1,7 +1,7 @@
 ---
 layout: portal
 permalink: /all-apps/
-title: "All Apps"
+title: "Proxy Applications"
 ---
 
 {% raw %}
