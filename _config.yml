@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ECP Proxy Applications"
+title                    : "Exascale Proxy Applications"
 title_separator          : "-"
 name                     : "ecp-proxy-apps@llnl.gov"
-description              : "ECP Proxy Applicaitions Project Website."
+description              : "Exascale Proxy Applications Project Website."
 url                      : "https://exascaleproject.github.io"
 baseurl                  : "/proxy-apps"
 repository               : "exascaleproject/proxy-apps"

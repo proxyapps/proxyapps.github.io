@@ -6,13 +6,13 @@ title: Team
 
 # Project Team
 
+* [David Richards](http://people.llnl.gov/richards12), LLNL (Lead PI)
 * [Hal Finkel](http://www.alcf.anl.gov/staff-directory/hal-finkel), ANL
 * [Christoph Junghans](http://github.com/junghans), LANL
 * [Robert Pavel](http://github.com/rspavel), LANL
 * [Peter McCorquodale](http://crd.lbl.gov/departments/applied-mathematics/ANAG/about/staff-and-postdocs/peter-mccorquodale/), LBL
 * [Abhinav Bhatele](http://www.bhatele.org), LLNL
 * [Nikhil Jain](http://nikhil-jain.github.io), LLNL
-* David Richards, LLNL (Lead PI)
 * Bronson Messer, ORNL
 * Tiffany Mintz, ORNL
 * Shirley Moore, ORNL

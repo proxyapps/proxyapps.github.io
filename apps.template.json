@@ -1,15 +1,15 @@
 [
   { 
-    "name" : "",
-    "spackname" : "",
-    "weburl" : "",
-    "giturl" : "",
-    "tarballurl" : "",
-    "version"  : "",
-    "language" : "",
-    "intent" : "",
-    "science" : "",
-    "shortdesc" : "",
-    "longdesc" : ""
+    "name" : "Official name of the proxy application",
+    "spackname" : "Package name in the spack package manager",
+    "weburl" : "URL that has a description and other details about the proxy app",
+    "giturl" : "URL of the git repository",
+    "tarballurl" : "URL of the tarball (optional if git repository provided)",
+    "version"  : "Version number of the latest stable release",
+    "language" : "C / C++ / MPI / OpenMP etc.",
+    "intent" : "Objective of creating the proxy application -- does it mimic the on-node / threading behavior, or memory or I/O characteristics, or MPI / communication in the parent application",
+    "science" : "What is the physics/science being simulated -- hydrodynamics, molecular dynamics, fluid mechanics, transport etc.",
+    "shortdesc" : "A short 1-2 lines description",
+    "longdesc" : "Longer detailed description"
   }
 ]
