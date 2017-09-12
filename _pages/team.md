@@ -8,6 +8,7 @@ title: Team
 
 * [David Richards](http://people.llnl.gov/richards12), LLNL (Lead PI)
 * [Hal Finkel](http://www.alcf.anl.gov/staff-directory/hal-finkel), ANL
+* Thomas Uram, ANL
 * [Christoph Junghans](http://github.com/junghans), LANL
 * [Robert Pavel](http://github.com/rspavel), LANL
 * [Peter McCorquodale](http://crd.lbl.gov/departments/applied-mathematics/ANAG/about/staff-and-postdocs/peter-mccorquodale/), LBL
