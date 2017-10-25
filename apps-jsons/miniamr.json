@@ -4,8 +4,8 @@
     "spackname" : "miniamr",
     "weburl" : "https://mantevo.org/packages/",
     "giturl" : "https://github.com/Mantevo/miniAMR",
-    "tarballurl" : "http://mantevo.org/downloads/releaseTarballs/miniapps/MiniAMR/miniAMR_1.0_all.tgz",
-    "version"  : "1.0",
+    "tarballurl" : "https://github.com/Mantevo/miniAMR/archive/v1.4.tar.gz"
+    "version"  : "1.4.0",
     "language" : "C",
     "intent" : "",
     "science" : "",
