@@ -9,7 +9,7 @@
     "language" : "C++",
     "intent" : "",
     "science" : "",
-    "shortdesc" : "Proxy for a class of triangle based data analytics"
+    "shortdesc" : "Proxy for a class of triangle based data analytics",
     "longdesc" : "MiniTri uses triangle enumeration with a calculation of specific vertex and edge properties. Key uses related to miniTri include dense subgraph detection, characterizing graphs, improving community detection, and generating graphs."
   }
 ]
