@@ -1,0 +1,16 @@
+[
+  { 
+    "name" : "MACSio",
+    "spackname" : "",
+    "weburl" : "https://codesign.llnl.gov/macsio.php",
+    "giturl" : "https://github.com/LLNL/MACSio",
+    "tarballurl" : "https://github.com/LLNL/MACSio/archive/v0.9.tar.gz",
+    "version"  : "0.9",
+    "language" : "",
+    "intent" : "Proxy for I/O workloads in real applications",
+    "science" : "",
+    "shortdesc" : "A Multi-purpose, Application-Centric, Scalable I/O Proxy Application",
+    "longdesc" : ""
+  }
+]
+
