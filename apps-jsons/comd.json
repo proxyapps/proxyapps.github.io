@@ -4,7 +4,7 @@
     "spackname" : "comd",
     "weburl" : "http://www.exmatex.org/comd.html",
     "giturl" : "https://github.com/exmatex/CoMD",
-    "tarballurl" : "https://github.com/exmatex/CoMD/tarball/master",
+    "tarballurl" : "https://github.com/exmatex/CoMD/archive/v1.1.tar.gz",
     "version"  : "1.1",
     "language" : "C",
     "intent" : "",
