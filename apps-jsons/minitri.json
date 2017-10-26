@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "miniTri",
+    "spackname" : "minitri",
+    "weburl" : "https://mantevo.org/packages/",
+    "giturl" : "https://github.com/Mantevo/miniTri",
+    "tarballurl" : "https://github.com/Mantevo/miniTri/archive/v1.0.tar.gz",
+    "version"  : "1.0",
+    "language" : "C++",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "Proxy for a class of triangle based data analytics"
+    "longdesc" : "MiniTri uses triangle enumeration with a calculation of specific vertex and edge properties. Key uses related to miniTri include dense subgraph detection, characterizing graphs, improving community detection, and generating graphs."
+  }
+]

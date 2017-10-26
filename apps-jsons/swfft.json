@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "swfft",
+    "spackname" : "swfft",
+    "weburl" : "",
+    "giturl" : "https://xgitlab.cels.anl.gov/hacc/SWFFT",
+    "tarballurl" : "https://xgitlab.cels.anl.gov/hacc/SWFFT/repository/v1.0/archive.tar.gz"
+    "version"  : "1.0",
+    "language" : "C",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "Hardware Accelerated Cosmology Code (HACC) Distributed memory discrete fast Fourier transform"
+    "longdesc" : "Fast Fourier transform which distributes data between ranks in a 3D cartesian grid communicator, and then re-distributed across three 2D pencil dsitributions to compute the DFFTs along each dimension."
+  }
+]
