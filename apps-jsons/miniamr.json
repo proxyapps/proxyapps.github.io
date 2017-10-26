@@ -10,6 +10,6 @@
     "intent" : "",
     "science" : "",
     "shortdesc" : "3D stencil calculation with Adaptive Mesh Refinement",
-    "longdesc" : ""
+    "longdesc" : "AMR is performed by splitting blocks in 8 subblocks across the 3 dimensions, it also features load balancing with blocks migrations across ranks."
   }
 ]

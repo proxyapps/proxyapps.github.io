@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "candle",
+    "spackname" : "",
+    "weburl" : "http://candle.cels.anl.gov/",
+    "giturl" : "https://github.com/ECP-CANDLE/Benchmarks",
+    "tarballurl" : "https://github.com/ECP-CANDLE/Benchmarks/archive/v1.0.tar.gz",
+    "version"  : "1.0",
+    "language" : "Python",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "Deep Learning algorithms for cancer medicine research",
+    "longdesc" : "Candel consists of several benchmarks based on deep learning architectures that address problems at different biological scales, specifically problems at the molecular, cellular and population scales."
+  }
+]
