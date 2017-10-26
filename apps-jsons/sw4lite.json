@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "SW4lite",
+    "spackname" : "sw4lite",
+    "weburl" : "https://geodynamics.org/cig/software/sw4",
+    "giturl" : "https://github.com/geodynamics/sw4lite",
+    "tarballurl" : "https://github.com/geodynamics/sw4lite/archive/v1.0.tar.gz",
+    "version"  : "1.0",
+    "language" : "C, Fortran",
+    "intent" : "",
+    "science" : "geodynamics",
+    "shortdesc" : "Sw4lite is a bare bone version of SW4 intended for testing performance optimizations in a few important numerical kernels of SW4.",
+    "longdesc" : ""
+  }
+]
