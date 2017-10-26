@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "FleCSALE",
+    "spackname" : "",
+    "weburl" : "https://github.com/laristra/flecsale",
+    "giturl" : "https://github.com/laristra/flecsale",
+    "tarballurl" : "",
+    "version"  : "Version number of the latest stable release",
+    "language" : "C++",
+    "intent" : "This proxy application is non-export-controlled version of some of the hydrodynamics methods of interest to the LANL ATDM project.",
+    "science" : "hydrodynamics",
+    "shortdesc" : "ALE hydrodynamics solver suite using FleCSI.",
+    "longdesc" : "FleCSALE is a computer software package developed for studying problems that can be characterized using continuum dynamics, such as fluid flow. It is specifically developed for existing and emerging large distributed memory system architectures. FleCSALE uses the Flexible Computational Science Infrastructure (FleCSI) project for mesh and data structure support. FleCSALE has support for multi-phase fluids and tabular equation of state (EOS)."
+  }
+]
