@@ -1,10 +1,10 @@
 [
   { 
-    "name" : "AMG2013",
-    "spackname" : "amg2013",
+    "name" : "AMG",
+    "spackname" : "amg",
     "weburl" : "https://codesign.llnl.gov/amg2013.php",
-    "giturl" : "",
-    "tarballurl" : "https://codesign.llnl.gov/amg2013/amg2013.tgz",
+    "giturl" : "https://github.com/LLNL/AMG",
+    "tarballurl" : "https://github.com/LLNL/AMG/archive/1.0.tar.gz",
     "version"  : "1.0",
     "language" : "C",
     "intent" : "",
