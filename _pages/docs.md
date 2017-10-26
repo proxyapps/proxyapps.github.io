@@ -11,7 +11,7 @@ title: Documentation
 
 ### How to get a proxy application added to the website
 
-1. Fork the [github repository](http://github.com/exascaleproject/proxy-apps)
+1. [Fork](https://help.github.com/articles/fork-a-repo/) the [github repository](http://github.com/exascaleproject/proxy-apps)
 of the proxy-apps website.
 2. Lets say your new proxy application is called "proxyapp". Based on the
 apps.template.json file in the top level directory, create a new file
