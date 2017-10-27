@@ -9,7 +9,7 @@
     "language" : "C",
     "intent" : "",
     "science" : "",
-    "shortdesc" : "miniGMG is a compact benchmark for understanding the performance challenges associated with geometric multigrid solvers found in applications built from AMR MG frameworks like CHOMBO or BoxLib when running on modern multi- and manycore-based supercomputers.",
+    "shortdesc" : "miniGMG is a proxy for geometric multigrid solvers found in applications built from AMR MG frameworks like CHOMBO or BoxLib.",
     "longdesc" : "miniGMG is a compact benchmark for understanding the performance challenges associated with geometric multigrid solvers found in applications built from AMR MG frameworks like CHOMBO or BoxLib when running on modern multi- and manycore-based supercomputers.  It includes both productive reference examples as well as highly-optimized implementations for CPUs and GPUs.  It is sufficiently general that it has been used to evaluate a broad range of research topics including PGAS programming models and algorithmic tradeoffs inherit in multigrid.  miniGMG was developed under the CACHE Joint Math-CS Institute. Note, miniGMG code has been supersceded by HPGMG."
   }
 ]

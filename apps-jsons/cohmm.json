@@ -9,7 +9,7 @@
     "language" : "C",
     "intent" : "",
     "science" : "",
-    "shortdesc" : "A Co-design proxy application for the Heterogeneous Multiscale Method (HMM) augmented with adaptive sampling. ",
+    "shortdesc" : "A proxy application for the Heterogeneous Multiscale Method (HMM) augmented with adaptive sampling. ",
     "longdesc" : "A Co-design proxy application for the Heterogeneous Multiscale Method (HMM) augmented with adaptive sampling. This source code was used to generate the data in the paper: B. Rouet-Leduc et al., Spatial adaptive sampling in multiscale simulation, Comput. Phys. Commun. 185 (2014) 1857-1864 (link).Original authors of the source code include Bertrand Rouet-Leduc and the students of the 2013 Los Alamos Co-Design Summer School. CoHMM is now maintained by ExMatEx: Exascale Co-Design Center for Materials in Extreme Environments (exmatex.org)."
   }
 ]
