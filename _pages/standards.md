@@ -14,12 +14,6 @@ Proxy App team. Standards and practices in this guide are designated as either
 _required_ or _recommended_.  Over time, we expect to increase the overall
 quality of the proxy app suite by promoting some recommended practices to
 requirements.
-
-## Design
-
-**Recommended**: Follow DRY (Don't Repeat Yourself) practices and refactor code
-common or beneficial to multiple applications into library dependencies
-
 ## Code Distribution and Availability
 
 **Required**: All proxy app source code must be publicly available.
@@ -64,6 +58,17 @@ allow for passing of any library dependencies to the build system.
 
 **Recommended**: Easy integration with Spack. This should be handled through
 the above requirements.
+
+### Design
+
+**Recommended**: Follow DRY (Don't Repeat Yourself) practices and refactor code
+common or beneficial to multiple applications into library dependencies
+
+**Recommended**: Where possible, minimize the code base as much as possible without
+negating the intended purpose of the proxy application. A larger codebase may
+allow for further exploration of the design space but adds to the difficulty
+of working with the proxy. A suggested goal is to have an application with fewer than
+10k lines of code.
 
 ## Three Expected Running Modes to be specified
 
