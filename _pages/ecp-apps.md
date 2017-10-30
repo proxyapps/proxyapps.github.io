@@ -6,7 +6,9 @@ title: "ECP Proxy Applications Suite"
 
 # Release 1.0
 
-**October 31, 2017** ECP Proxy Applications Suite 1.0 has been released! Instructions to download the suite can be found on the [Documentation](docs) page.
+**October 31, 2017** ECP Proxy Applications Suite 1.0 has been released!
+Instructions to download the suite can be found on the
+[Documentation](https://exascaleproject.github.io/proxy-apps/docs) page.
 
 | Proxy App | Version | Website | GitHub |
 | AMG       | 1.0     | [Website](https://codesign.llnl.gov/amg2013.php) | [GitHub](https://github.com/LLNL/AMG) |
