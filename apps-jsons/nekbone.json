@@ -5,7 +5,7 @@
     "weburl" : "http://cesar.mcs.anl.gov/content/software/thermal_hydraulics",
     "giturl" : "https://github.com/Nek5000/Nekbone",
     "tarballurl" : "https://github.com/Nek5000/Nekbone/tarball/v17.0",
-    "version"  : "17",
+    "version"  : "17.0",
     "language" : "Fortran",
     "intent" : "",
     "science" : "thermal hydraulics",
