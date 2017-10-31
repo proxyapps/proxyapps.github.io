@@ -17,6 +17,7 @@ Instructions to download the suite can be found on the
 | [miniAMR](https://exascaleproject.github.io/proxy-apps/apps/miniamr) | 1.4.0 |
 | [miniFE](https://exascaleproject.github.io/proxy-apps/apps/minife)   | 2.1.0 |
 | [miniTri](https://exascaleproject.github.io/proxy-apps/apps/minitri) | 1.0   |
+| [Nekbone](https://exascaleproject.github.io/proxy-apps/apps/nekbone) | 17.0  |
 | [SW4lite](https://exascaleproject.github.io/proxy-apps/apps/sw4lite) | 1.0   |
 | [SWFFT](https://exascaleproject.github.io/proxy-apps/apps/swfft)     | 1.0   |
 | [XSBench](https://exascaleproject.github.io/proxy-apps/apps/xsbench) | 14    |
