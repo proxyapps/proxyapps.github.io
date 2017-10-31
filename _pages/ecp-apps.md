@@ -20,7 +20,7 @@ Instructions to download the suite can be found on the
 | [miniAMR](https://exascaleproject.github.io/proxy-apps/apps/miniamr) | 1.4.0 | [Website](https://mantevo.org) | [GitHub](https://github.com/Mantevo/miniAMR) |
 | [miniFE](https://exascaleproject.github.io/proxy-apps/apps/minife)   | 2.1.0 | [Website](https://mantevo.org) | [GitHub](https://github.com/Mantevo/miniFE) |
 | [miniTri](https://exascaleproject.github.io/proxy-apps/apps/minitri) | 1.0   | [Website](https://mantevo.org) | [GitHub](https://github.com/Mantevo/miniTri) |
-| [Nekbone](https://exascaleproject.github.io/proxy-apps/apps/nekbone) | 17.0  | [Website](	http://cesar.mcs.anl.gov/content/software/thermal_hydraulics) | GitHub](https://github.com/Nek5000/Nekbone) |
+| [Nekbone](https://exascaleproject.github.io/proxy-apps/apps/nekbone) | 17.0  | [Website](	http://cesar.mcs.anl.gov/content/software/thermal_hydraulics) | [GitHub](https://github.com/Nek5000/Nekbone) |
 | [SW4lite](https://exascaleproject.github.io/proxy-apps/apps/sw4lite) | 1.0   | [Website](https://geodynamics.org/cig/software/sw4) | [GitHub](https://github.com/geodynamics/sw4lite) |
 | [SWFFT](https://exascaleproject.github.io/proxy-apps/apps/swfft)     | 1.0   | [Website](https://xgitlab.cels.anl.gov/hacc/SWFFT) | [GitHub](https://xgitlab.cels.anl.gov/hacc/SWFFT) |
 | [XSBench](https://exascaleproject.github.io/proxy-apps/apps/xsbench) | 14    | [Website](https://github.com/ANL-CESAR/XSBench) | [GitHub](https://github.com/ANL-CESAR/XSBench) |
