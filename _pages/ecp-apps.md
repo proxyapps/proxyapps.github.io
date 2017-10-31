@@ -12,6 +12,7 @@ Instructions to download the suite can be found on the
 
 | **Proxy App** | **Version** |
 | [AMG](https://exascaleproject.github.io/proxy-apps/apps/amg/)        | 1.0   |
+| [CANDLE Benchmarks](https://exascaleproject.github.io/proxy-apps/apps/candle/)      | 1.0   |
 | [CoMD](https://exascaleproject.github.io/proxy-apps/apps/comd/)      | 1.1   |
 | [Laghos](https://exascaleproject.github.io/proxy-apps/apps/laghos/)  | 1.0   |
 | [miniAMR](https://exascaleproject.github.io/proxy-apps/apps/miniamr) | 1.4.0 |
