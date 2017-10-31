@@ -62,13 +62,13 @@ the above requirements.
 ### Design
 
 **Recommended**: Follow DRY (Don't Repeat Yourself) practices and refactor code
-common or beneficial to multiple applications into library dependencies
+common or beneficial to multiple applications into library dependencies.
 
-**Recommended**: Where possible, minimize the code base as much as possible without
-negating the intended purpose of the proxy application. A larger codebase may
-allow for further exploration of the design space but adds to the difficulty
-of working with the proxy. A suggested goal is to have an application with fewer than
-10k lines of code.
+**Recommended**: Keep the number of lines of code to a minimum without negating
+the intended purpose of the proxy application. A larger codebase may allow for
+further exploration of the design space but adds to the difficulty of working
+with the proxy. A suggested goal is to have an proxy application with fewer
+than 10k lines of code.
 
 ## Three Expected Running Modes to be specified
 
