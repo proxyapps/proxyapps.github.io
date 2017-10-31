@@ -32,8 +32,8 @@ quality of proxies created by ECP and maximize the benefit received from their
 use. To accomplish this goal, an ECP proxy app suite composed of proxies
 developed by ECP projects that represent the most important features
 (especially performance) of exascale applications will be created. This suite
-will be released and distributed through this [webpage](ecp-apps).  To ensure
-high quality of ECP proxy apps, we have defined [standards](standards) for
+will be released and distributed through this [webpage](/proxy-apps/ecp-apps).  To ensure
+high quality of ECP proxy apps, we have defined [standards](/proxy-apps/standards) for
 documentation, build and test systems, performance models and evaluations, etc.
 We will also provide templates and best practices for proxy developers to help
 meet these standards.
