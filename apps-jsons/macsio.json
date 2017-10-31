@@ -5,7 +5,7 @@
     "weburl" : "https://codesign.llnl.gov/macsio.php",
     "giturl" : "https://github.com/LLNL/MACSio",
     "tarballurl" : "https://github.com/LLNL/MACSio/archive/v0.9.tar.gz",
-    "version"  : "0.9",
+    "version"  : "0.99 (46ef84dd)",
     "language" : "",
     "intent" : "Proxy for I/O workloads in real applications",
     "science" : "",
