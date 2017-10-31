@@ -16,6 +16,7 @@ Instructions to download the suite can be found on the
 | [CoMD](https://exascaleproject.github.io/proxy-apps/apps/comd/)      | 1.1   | [Website](http://www.exmatex.org/comd.html) | [GitHub](https://github.com/ECP-copa/CoMD) |
 | Ember | | Coming soon | |
 | [Laghos](https://exascaleproject.github.io/proxy-apps/apps/laghos/)  | 1.0   | [Website](https://codesign.llnl.gov/laghos.php) | [GitHub](https://github.com/CEED/Laghos) |
+| [MACSio](https://exascaleproject.github.io/proxy-apps/apps/macsio/)  | 1.0   | [Website](https://codesign.llnl.gov/macsio.php) | [GitHub](https://github.com/LLNL/MACSio) |
 | [miniAMR](https://exascaleproject.github.io/proxy-apps/apps/miniamr) | 1.4.0 | [Website](https://mantevo.org) | [GitHub](https://github.com/Mantevo/miniAMR) |
 | [miniFE](https://exascaleproject.github.io/proxy-apps/apps/minife)   | 2.1.0 | [Website](https://mantevo.org) | [GitHub](https://github.com/Mantevo/miniFE) |
 | [miniTri](https://exascaleproject.github.io/proxy-apps/apps/minitri) | 1.0   | [Website](https://mantevo.org) | [GitHub](https://github.com/Mantevo/miniTri) |
