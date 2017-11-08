@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : "ecp-proxy-apps@llnl.gov"
 description              : "Exascale Proxy Applications Project Website."
-url                      : "https://exascaleproject.github.io"
-baseurl                  : "/proxy-apps"
-repository               : "exascaleproject/proxy-apps"
+url                      : "https://proxyapps.github.io"
+baseurl                  : "/"
+repository               : "proxyapps/proxyapps.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
