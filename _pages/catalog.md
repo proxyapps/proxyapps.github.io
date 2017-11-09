@@ -1,6 +1,6 @@
 ---
 layout: portal
-permalink: /all-apps/
+permalink: /catalog/
 title: "Proxy Applications"
 ---
 
@@ -45,4 +45,4 @@ Proxy Applications
 {% endraw %}
 
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
-<script src="/proxy-apps/js/applist-load.js"></script>
+<script src="/js/applist-load.js"></script>

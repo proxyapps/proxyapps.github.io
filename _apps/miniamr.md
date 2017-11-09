@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/miniamr.json
+file : /proxy-desc/miniamr.json
 ---

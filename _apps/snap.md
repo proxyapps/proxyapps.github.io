@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/snap.json
+file : /proxy-desc/snap.json
 ---

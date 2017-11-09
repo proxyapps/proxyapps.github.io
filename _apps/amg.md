@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/amg.json
+file : /proxy-desc/amg.json
 ---

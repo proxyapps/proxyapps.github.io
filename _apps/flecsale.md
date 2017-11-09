@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/flecsale.json
+file : /proxy-desc/flecsale.json
 ---

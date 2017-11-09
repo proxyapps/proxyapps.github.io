@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/sw4lite.json
+file : /proxy-desc/sw4lite.json
 ---

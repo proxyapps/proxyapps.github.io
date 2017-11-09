@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/<json filename in apps-jsons>
+file : /proxy-desc/<json filename in proxy-desc>
 ---

@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/tycho2.json
+file : /proxy-desc/tycho2.json
 ---

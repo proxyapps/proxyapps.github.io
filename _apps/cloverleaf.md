@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/cloverleaf.json
+file : /proxy-desc/cloverleaf.json
 ---

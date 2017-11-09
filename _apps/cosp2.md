@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/cosp2.json
+file : /proxy-desc/cosp2.json
 ---

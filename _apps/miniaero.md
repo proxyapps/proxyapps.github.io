@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/miniaero.json
+file : /proxy-desc/miniaero.json
 ---

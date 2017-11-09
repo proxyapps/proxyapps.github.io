@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/cns-nospec.json
+file : /proxy-desc/cns-nospec.json
 ---

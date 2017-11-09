@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/candle.json
+file : /proxy-desc/candle.json
 ---

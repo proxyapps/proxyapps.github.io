@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/tealeaf.json
+file : /proxy-desc/tealeaf.json
 ---

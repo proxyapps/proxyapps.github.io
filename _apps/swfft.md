@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/swfft.json
+file : /proxy-desc/swfft.json
 ---

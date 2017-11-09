@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/minigmg.json
+file : /proxy-desc/minigmg.json
 ---

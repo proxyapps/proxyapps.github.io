@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/pathfinder.json
+file : /proxy-desc/pathfinder.json
 ---

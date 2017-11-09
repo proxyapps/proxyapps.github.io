@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/minighost.json
+file : /proxy-desc/minighost.json
 ---

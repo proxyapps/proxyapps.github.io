@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/amr-exp-parabolic.json
+file : /proxy-desc/amr-exp-parabolic.json
 ---

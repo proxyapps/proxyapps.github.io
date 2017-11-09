@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/ebms.json
+file : /proxy-desc/ebms.json
 ---

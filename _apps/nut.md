@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/nut.json
+file : /proxy-desc/nut.json
 ---

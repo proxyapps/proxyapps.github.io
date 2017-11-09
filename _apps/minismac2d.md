@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/minismac2d.json
+file : /proxy-desc/minismac2d.json
 ---

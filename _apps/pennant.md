@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/pennant.json
+file : /proxy-desc/pennant.json
 ---

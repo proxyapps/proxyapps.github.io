@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/mcb.json
+file : /proxy-desc/mcb.json
 ---

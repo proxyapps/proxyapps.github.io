@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/plasma.json
+file : /proxy-desc/plasma.json
 ---

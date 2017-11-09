@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/clamr.json
+file : /proxy-desc/clamr.json
 ---

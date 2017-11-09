@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/lulesh.json
+file : /proxy-desc/lulesh.json
 ---

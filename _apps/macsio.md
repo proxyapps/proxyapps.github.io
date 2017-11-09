@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/macsio.json
+file : /proxy-desc/macsio.json
 ---

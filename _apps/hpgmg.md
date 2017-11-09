@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/hpgmg.json
+file : /proxy-desc/hpgmg.json
 ---

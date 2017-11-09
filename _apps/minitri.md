@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/minitri.json
+file : /proxy-desc/minitri.json
 ---

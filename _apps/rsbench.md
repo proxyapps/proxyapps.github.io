@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/rsbench.json
+file : /proxy-desc/rsbench.json
 ---

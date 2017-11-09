@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/nekbone.json
+file : /proxy-desc/nekbone.json
 ---

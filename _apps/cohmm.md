@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/cohmm.json
+file : /proxy-desc/cohmm.json
 ---

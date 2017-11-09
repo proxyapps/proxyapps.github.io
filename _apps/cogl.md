@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/cogl.json
+file : /proxy-desc/cogl.json
 ---

@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/snbone.json
+file : /proxy-desc/snbone.json
 ---

@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/lcals.json
+file : /proxy-desc/lcals.json
 ---

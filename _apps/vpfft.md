@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/vpfft.json
+file : /proxy-desc/vpfft.json
 ---

@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/minixyce.json
+file : /proxy-desc/minixyce.json
 ---

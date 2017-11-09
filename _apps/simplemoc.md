@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/simplemoc.json
+file : /proxy-desc/simplemoc.json
 ---

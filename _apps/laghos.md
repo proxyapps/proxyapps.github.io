@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/laghos.json
+file : /proxy-desc/laghos.json
 ---

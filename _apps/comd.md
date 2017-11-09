@@ -1,3 +1,3 @@
 ---
-file : /proxy-apps/apps-jsons/comd.json
+file : /proxy-desc/comd.json
 ---
