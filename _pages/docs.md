@@ -52,8 +52,19 @@ website.
 2. Lets say your new proxy application is called "proxyapp". Based on the
 apps.template.json file in the top level directory, create a new file
 proxy-desc/proxyapp.json and fill in the details. Remove item, which do not
-apply and avoid newlines. In principle, any valid json is fine, which can be
-checked [here](https://jsonlint.com/)
+apply. In principle, any valid json is fine, which can be
+checked [here](https://jsonlint.com/). Newline characters are not allowed in
+json, but one can add multiple by:
+```json
+[
+  { 
+    ...
+    "longdesc" : ["line1",
+                  "line2",
+                  "line3"]
+  }
+]     
+```
 3. Based on the apps.template.md, create a new file _apps/proxyapp.md and fill
 in the file name proxyapp.json in the file variable (please do not delete the
 "/proxy-desc/" prefix).
@@ -61,15 +72,15 @@ in the file name proxyapp.json in the file variable (please do not delete the
 To do so:
 
       i. Add the files to the next commit   
-      ```
+      ```sh
       git add proxy-desc/proxyapp.json _apps/proxyapp.md
       ```
       ii. Commit the changes
-      ```
+      ```sh
       git commit -m "Added proxyapp"
       ```
       iii. Push your commit to your fork
-      ```
+      ```sh
       git push https://github.com/YOUR-USERNAME/proxyapps.github.io
       ```
       iv. [Open a pull request](https://help.github.com/articles/creating-a-pull-request/)
