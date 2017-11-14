@@ -58,4 +58,19 @@ checked [here](https://jsonlint.com/)
 in the file name proxyapp.json in the file variable (please do not delete the
 "/proxy-desc/" prefix).
 4. Submit a pull request to the github repository of the proxy apps website.
+To do so:
+
+      i. Add the files to the next commit   
+      ```
+      git add proxy-desc/proxyapp.json _apps/proxyapp.md
+      ```
+      ii. Commit the changes
+      ```
+      git commit -m "Added proxyapp"
+      ```
+      iii. Push your commit to your fork
+      ```
+      git push https://github.com/YOUR-USERNAME/proxyapps.github.io
+      ```
+      iv. [Open a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
