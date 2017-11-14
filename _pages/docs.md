@@ -51,7 +51,9 @@ repository](http://github.com/proxyapps/proxyapps.github.io) of the proxy apps
 website.
 2. Lets say your new proxy application is called "proxyapp". Based on the
 apps.template.json file in the top level directory, create a new file
-apps-jsons/proxyapp.json and fill in the details.
+proxy-desc/proxyapp.json and fill in the details. Remove item, which do not
+apply and avoid newlines. In principle, any valid json is fine, which can be
+checked [here](https://jsonlint.com/)
 3. Based on the apps.template.md, create a new file _apps/proxyapp.md and fill
 in the file name proxyapp.json in the file variable (please do not delete the
 "/proxy-desc/" prefix).
