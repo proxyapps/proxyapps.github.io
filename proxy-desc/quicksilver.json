@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "Quicksilver",
+    "spackname" : "",
+    "weburl" : "https://codesign.llnl.gov/quicksilver.php",
+    "giturl" : "https://github.com/LLNL/Quicksilver",
+    "tarballurl" : "",
+    "version"  : "1.0",
+    "language" : "C++ / MPI / OpenMP / CUDA",
+    "intent" : "Quicksilver attempts to replicate the memory access patterns, communication patterns, and the branching or divergence of Mercury for problems using multigroup cross sections.",
+    "science" : "Monte Carlo Transport",
+    "shortdesc" : "Quicksilver is a open source proxy app that represents the key elements of the Mercury workload by solving a simpliﬁed dynamic monte carlo particle transport problem.  OpenMP and MPI are used for parallelization.  A GPU version is available.",
+    "longdesc" : ""
+  }
+]
