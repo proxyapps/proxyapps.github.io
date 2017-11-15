@@ -51,10 +51,10 @@ repository](http://github.com/proxyapps/proxyapps.github.io) of the proxy apps
 website.
 2. Lets say your new proxy application is called "proxyapp". Based on the
 apps.template.json file in the top level directory, create a new file
-proxy-desc/proxyapp.json and fill in the details. Remove item, which do not
+proxy-desc/proxyapp.json and fill in the details. Remove items that do not
 apply. In principle, any valid json is fine, which can be
 checked [here](https://jsonlint.com/). Newline characters are not allowed in
-json, but one can add multiple by:
+json files, but one can add multiple lines like this:
 ```json
 [
   { 
@@ -71,7 +71,7 @@ in the file name proxyapp.json in the file variable (please do not delete the
 4. Submit a pull request to the github repository of the proxy apps website.
 To do so:
 
-      i. Add the files to the next commit   
+      i. Add the new files to the next commit   
       ```sh
       git add proxy-desc/proxyapp.json _apps/proxyapp.md
       ```
@@ -79,7 +79,7 @@ To do so:
       ```sh
       git commit -m "Added proxyapp"
       ```
-      iii. Push your commit to your fork
+      iii. Push the commit to your fork
       ```sh
       git push https://github.com/YOUR-USERNAME/proxyapps.github.io
       ```
