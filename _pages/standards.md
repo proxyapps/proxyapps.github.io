@@ -155,6 +155,6 @@ resource the proxy app is stressing.
 ## ECP Proxy Applications Website Contributions
 
 **Required**: Provide a description of the proxy app. See
-[Documentation](/docs).
+[adding a proxy to this website](/add-a-proxy).
 
 **Recommended**: Contribute tags to facilitate indexing of proxy apps.

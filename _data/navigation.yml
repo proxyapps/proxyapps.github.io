@@ -6,7 +6,7 @@ main:
     url: /ecp-suite/
   - title: "Standards"
     url: /standards/
-  - title: "Documentation"
-    url: /docs/
+  - title: "FAQ"
+    url: /faq/
   - title: "Team"
     url: /team/
