@@ -1,4 +1,4 @@
-If you want to add a new proxy app complete the items below.
+If you want to add a new proxy app to this website, complete the items below.
 
 -----
 
