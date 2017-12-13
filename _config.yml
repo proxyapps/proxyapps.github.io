@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "ECP Proxy Applications"
 title_separator          : "-"
 name                     : "ecp-proxy-apps@llnl.gov"
 description              : "Exascale Proxy Applications Project Website."
