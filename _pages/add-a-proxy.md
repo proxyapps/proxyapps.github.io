@@ -6,6 +6,12 @@ title: Add a proxy
 
 # Getting a proxy application added to this website
 
+## Option 1: File an issue
+
+File an issue [here](https://github.com/proxyapps/proxyapps.github.io/issues/new) and complete all the sections.
+
+## Options 2: Using git and github
+
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the [github
 repository](http://github.com/proxyapps/proxyapps.github.io) of the proxy apps
 website.
