@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "ExaMiniMD",
+    "spackname" : "examinimd",
+    "weburl" : "https://github.com/ECP-copa/ExaMiniMD",
+    "giturl" : "https://github.com/ECP-copa/ExaMiniMD",
+    "tarballurl" : "https://github.com/ECP-copa/ExaMiniMD/archive/v1.0.tar.gz",
+    "version"  : "1.0",
+    "language" : "C++",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "A proxy application and research vehicle for particle codes, in particular Molecular Dynamics",
+    "longdesc" : "ExaMiniMD is a proxy application and research vehicle for particle codes, in particular Molecular Dynamics (MD). Compared to previous MD proxy apps (MiniMD, COMD), its design is significantly more modular in order to allow independent investigation of different aspects. To achieve that the main components such as force calculation, communication, neighbor list construction and binning are derived classes whose main functionality is accessed via virtual functions. This allows a developer to write a new derived class and drop it into the code without touching much of the rest of the application."
+  }
+]
