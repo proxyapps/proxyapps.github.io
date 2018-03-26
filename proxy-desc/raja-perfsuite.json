@@ -1,0 +1,15 @@
+[
+  { 
+    "name" : "RAJA Performance Suite",
+    "spackname" : "",
+    "weburl" : "https://github.com/LLNL/RAJAPerf",
+    "giturl" : "https://github.com/LLNL/RAJAPerf.git",
+    "tarballurl" : "https://github.com/LLNL/RAJAPerf/releases/download/0.3.0/RAJAPerf-0.3.0.tar.gz",
+    "version"  : "0.3.0",
+    "language" : "C++",
+    "intent" : "",
+    "science" : "",
+    "shortdesc" : "The RAJA performance suite is designed to explore performance of loop-based computational kernels of the sort found in HPC applications. In particular, it is used to assess, monitor, and compare runtime performance of kernels implemented using RAJA and variants implemented using standard or vendor-supported parallel programming models directly.",
+    "longdesc" : ""
+  }
+]
